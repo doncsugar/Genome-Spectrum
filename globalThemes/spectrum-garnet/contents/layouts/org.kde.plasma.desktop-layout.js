@@ -4,23 +4,10 @@ var layout = {
     "desktops": [
         {
             "applets": [
-                {
-                    "config": {
-                        "/": {
-                            "PreloadWeight": "0"
-                        }
-                    },
-                    "geometry.height": 0,
-                    "geometry.width": 0,
-                    "geometry.x": 0,
-                    "geometry.y": 0,
-                    "plugin": "org.kde.plasma.analogclock",
-                    "title": "Analog Clock"
-                }
             ],
             "config": {
                 "/": {
-                    "ItemGeometriesHorizontal": "Applet-46:1152,0,288,272,0;",
+                    "ItemGeometriesHorizontal": "",
                     "formfactor": "0",
                     "immutability": "1",
                     "lastScreen": "0",
@@ -92,14 +79,18 @@ var layout = {
                         "/": {
                             "immutability": "1"
                         },
+                        "/Configuration": {
+                            "PreloadWeight": "34"
+                        },
                         "/Configuration/ConfigDialog": {
                             "DialogHeight": "540",
                             "DialogWidth": "720"
                         },
                         "/Configuration/General": {
-                            "groupingAppIdBlacklist": "org.kde.dolphin.desktop,org.kde.kate.desktop,org.kde.gwenview.desktop,firefox.desktop",
-                            "groupingLauncherUrlBlacklist": "applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:firefox.desktop,applications:org.kde.gwenview.desktop",
-                            "launchers": "applications:systemsettings.desktop,applications:org.kde.discover.desktop,preferred://filemanager,applications:org.inkscape.Inkscape.desktop",
+                            "groupingAppIdBlacklist": "org.kde.gwenview.desktop,org.kde.dolphin.desktop",
+                            "groupingLauncherUrlBlacklist": "applications:org.kde.dolphin.desktop,applications:org.kde.gwenview.desktop",
+                            "highlightWindows": "true",
+                            "launchers": "applications:org.kde.discover.desktop,applications:systemsettings.desktop,preferred://filemanager,applications:firefox.desktop",
                             "middleClickAction": "ToggleGrouping"
                         }
                     },
@@ -122,7 +113,7 @@ var layout = {
                             "immutability": "1"
                         },
                         "/Configuration": {
-                            "PreloadWeight": "100"
+                            "PreloadWeight": "89"
                         },
                         "/Configuration/Appearance": {
                             "enabledCalendarPlugins": "/usr/lib/x86_64-linux-gnu/qt5/plugins/plasmacalendarplugins/holidaysevents.so,/usr/lib/x86_64-linux-gnu/qt5/plugins/plasmacalendarplugins/astronomicalevents.so",
@@ -162,11 +153,11 @@ var layout = {
                     "PreloadWeight": "0"
                 }
             },
-            "height": 2.111111111111111,
+            "height": 2,
             "hiding": "normal",
             "location": "bottom",
-            "maximumLength": 106.66666666666667,
-            "minimumLength": 106.66666666666667,
+            "maximumLength": 80,
+            "minimumLength": 80,
             "offset": 0
         }
     ],
