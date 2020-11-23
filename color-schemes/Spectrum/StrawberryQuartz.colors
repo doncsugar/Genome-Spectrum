@@ -19,14 +19,14 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=27,140,66
-BackgroundNormal=24,124,59
-DecorationFocus=11,184,69
-DecorationHover=11,184,69
+BackgroundAlternate=140,20,72
+BackgroundNormal=120,18,62
+DecorationFocus=233,61,90
+DecorationHover=233,61,90
 ForegroundActive=61,174,233
-ForegroundInactive=190,199,193
-ForegroundLink=44,140,200
-ForegroundNegative=130,35,55
+ForegroundInactive=230,176,202
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=239,240,241
 ForegroundPositive=39,174,96
@@ -47,26 +47,26 @@ ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
 [Colors:Selection]
-BackgroundAlternate=20,104,49
-BackgroundNormal=24,124,59
-DecorationFocus=11,184,69
-DecorationHover=11,184,69
+BackgroundAlternate=213,56,85
+BackgroundNormal=233,61,90
+DecorationFocus=233,61,90
+DecorationHover=233,61,90
 ForegroundActive=252,252,252
 ForegroundInactive=239,240,241
 ForegroundLink=253,188,75
-ForegroundNegative=130,35,55
-ForegroundNeutral=246,116,0
+ForegroundNegative=200,43,45
+ForegroundNeutral=255,138,55
 ForegroundNormal=239,240,241
-ForegroundPositive=39,174,96
+ForegroundPositive=128,255,128
 ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
-BackgroundAlternate=77,77,77
-BackgroundNormal=49,54,59
-DecorationFocus=11,184,69
-DecorationHover=11,184,69
+BackgroundAlternate=115,16,59
+BackgroundNormal=120,18,62
+DecorationFocus=233,61,90
+DecorationHover=233,61,90
 ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
+ForegroundInactive=230,176,202
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -75,12 +75,12 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:View]
-BackgroundAlternate=49,54,59
-BackgroundNormal=35,38,41
-DecorationFocus=11,184,69
-DecorationHover=11,184,69
+BackgroundAlternate=115,16,59
+BackgroundNormal=95,14,48
+DecorationFocus=233,61,90
+DecorationHover=233,61,90
 ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
+ForegroundInactive=230,176,202
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -89,12 +89,12 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:Window]
-BackgroundAlternate=77,77,77
-BackgroundNormal=49,54,59
-DecorationFocus=11,184,69
-DecorationHover=11,184,69
+BackgroundAlternate=120,18,61
+BackgroundNormal=100,16,50
+DecorationFocus=233,61,90
+DecorationHover=233,61,90
 ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
+ForegroundInactive=230,176,202
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -104,16 +104,16 @@ ForegroundVisited=127,140,141
 
 [General]
 ColorScheme=Breeze Dark
-Name=Maw Sit Sit
+Name=Strawberry Quartz
 shadeSortColumn=true
 
 [KDE]
 contrast=4
 
 [WM]
-activeBackground=24,124,59
+activeBackground=100,16,50
 activeBlend=255,255,255
 activeForeground=239,240,241
-inactiveBackground=49,54,59
+inactiveBackground=100,16,50
 inactiveBlend=75,71,67
-inactiveForeground=127,140,141
+inactiveForeground=230,176,202

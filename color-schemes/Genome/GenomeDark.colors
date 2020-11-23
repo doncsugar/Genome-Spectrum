@@ -19,12 +19,12 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=137,55,63
-BackgroundNormal=117,47,54
-DecorationFocus=196,50,54
-DecorationHover=196,50,54
+BackgroundAlternate=77,77,77
+BackgroundNormal=49,54,59
+DecorationFocus=61,175,233
+DecorationHover=61,175,233
 ForegroundActive=61,174,233
-ForegroundInactive=200,141,141
+ForegroundInactive=189,195,199
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -33,12 +33,12 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:Complementary]
-BackgroundAlternate=127,51,58
-BackgroundNormal=117,47,54
-DecorationFocus=232,50,54
-DecorationHover=196,50,54
+BackgroundAlternate=59,64,69
+BackgroundNormal=49,54,59
+DecorationFocus=30,146,255
+DecorationHover=61,174,230
 ForegroundActive=246,116,0
-ForegroundInactive=200,141,141
+ForegroundInactive=175,176,179
 ForegroundLink=61,174,230
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
@@ -47,26 +47,26 @@ ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
 [Colors:Selection]
-BackgroundAlternate=184,47,51
-BackgroundNormal=196,50,54
-DecorationFocus=196,50,54
-DecorationHover=196,50,54
+BackgroundAlternate=29,153,243
+BackgroundNormal=61,174,233
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
 ForegroundActive=252,252,252
 ForegroundInactive=239,240,241
 ForegroundLink=253,188,75
 ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
+ForegroundNeutral=225,97,0
 ForegroundNormal=239,240,241
-ForegroundPositive=39,174,96
+ForegroundPositive=128,255,128
 ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
-BackgroundAlternate=137,55,63
-BackgroundNormal=117,47,54
-DecorationFocus=196,50,54
-DecorationHover=196,50,54
-ForegroundActive=196,50,54
-ForegroundInactive=200,141,141
+BackgroundAlternate=77,77,77
+BackgroundNormal=49,54,59
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=189,195,199
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -75,12 +75,12 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:View]
-BackgroundAlternate=117,47,54
-BackgroundNormal=105,36,44
-DecorationFocus=196,50,54
-DecorationHover=196,50,54
+BackgroundAlternate=49,54,59
+BackgroundNormal=35,38,41
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=200,141,141
+ForegroundInactive=189,195,199
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -89,12 +89,12 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [Colors:Window]
-BackgroundAlternate=137,55,63
-BackgroundNormal=117,47,54
-DecorationFocus=196,50,54
-DecorationHover=196,50,54
+BackgroundAlternate=77,77,77
+BackgroundNormal=49,54,59
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
 ForegroundActive=61,174,233
-ForegroundInactive=200,141,141
+ForegroundInactive=189,195,199
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
@@ -104,16 +104,16 @@ ForegroundVisited=127,140,141
 
 [General]
 ColorScheme=Breeze Dark
-Name=Garnet
+Name=Genome Dark
 shadeSortColumn=true
 
 [KDE]
 contrast=4
 
 [WM]
-activeBackground=117,47,54
+activeBackground=49,54,59
 activeBlend=255,255,255
 activeForeground=239,240,241
-inactiveBackground=117,47,54
+inactiveBackground=49,54,59
 inactiveBlend=75,71,67
-inactiveForeground=200,141,141
+inactiveForeground=127,140,141
