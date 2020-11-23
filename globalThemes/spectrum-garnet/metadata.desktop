@@ -10,3 +10,6 @@ X-KDE-PluginInfo-Name=spectrum-garnet
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=
 X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1449502,kns://plasma-themes.knsrc/api.kde-look.org/1449495,kns://icons.knsrc/api.kde-look.org/1449532
