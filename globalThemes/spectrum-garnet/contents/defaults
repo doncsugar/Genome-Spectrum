@@ -7,6 +7,9 @@ ColorScheme=Garnet
 [kdeglobals][KDE]
 widgetStyle=Breeze
 
+[kdeglobals][Icons]
+Theme=SpectrumFoldersDark
+
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
