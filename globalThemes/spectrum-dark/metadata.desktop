@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Contains all Dark themes
+Name=Spectrum Dark
+X-KDE-PluginInfo-Author=doncsugar
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=spectrum-dark
+X-KDE-PluginInfo-Version=0.6
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1452221,kns://plasma-themes.knsrc/api.kde-look.org/1449495,kns://plasma-themes.knsrc/api.kde-look.org/1452785,kns://icons.knsrc/api.kde-look.org/1449532
