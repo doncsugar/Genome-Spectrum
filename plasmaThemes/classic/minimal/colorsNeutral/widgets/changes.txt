@@ -10,3 +10,12 @@ glowbar
 microphone
 audio
 viewitem
+
+
+bar_meter
+bar_meter
+slider
+scrollbar
+button
+lineedit
+tasks
