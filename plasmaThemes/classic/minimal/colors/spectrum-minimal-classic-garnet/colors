@@ -32,7 +32,7 @@ ForegroundNormal=239,240,241
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
-[Colors:Complementary]
+[Colors:Header]
 BackgroundAlternate=127,51,58
 BackgroundNormal=117,47,54
 DecorationFocus=232,50,54
