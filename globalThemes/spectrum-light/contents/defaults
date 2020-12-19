@@ -17,8 +17,8 @@ LayoutName=org.kde.breeze.desktop
 LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.breeze
-theme=kwin4_decoration_qml_plastik
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__SpectrumLightBlur
 
 [plasmarc][Theme]
 name=spectrum-minimal-classic-basic
