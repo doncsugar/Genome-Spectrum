@@ -1,0 +1,6 @@
+[submodule "icons/spectrumFolders/icons/breeze-icons"]
+	path = icons/spectrumFolders/icons/breeze-icons
+	url = https://github.com/KDE/breeze-icons
+[submodule "icons/spectrumFolders/breeze-icons"]
+	path = icons/spectrumFolders/breeze-icons
+	url = https://github.com/KDE/breeze-icons
