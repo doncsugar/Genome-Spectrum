@@ -42,7 +42,7 @@ sed -i '/^Comment\[/d' output/spectrum-light/index.theme
 sed -i 's/^Name=.*/Name=Spectrum Light/g' output/spectrum-light/index.theme
 sed -i 's/^Comment=.*/Comment=A light color-changing version of Breeze with some changes from Genome/g' output/spectrum-light/index.theme
 
-sed -i '/^Name=\[/d' output/spectrum-dark/index.theme
+sed -i '/^Name\[/d' output/spectrum-dark/index.theme
 sed -i '/^Comment\[/d' output/spectrum-dark/index.theme
 
 sed -i 's/^Name=.*/Name=Spectrum Dark/g' output/spectrum-dark/index.theme
