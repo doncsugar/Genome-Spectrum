@@ -223,6 +223,7 @@ indicator.element=tree
 [HeaderSection]
 interior.element=header
 frame.element=header
+indicator.size=14
 frame.top=4
 frame.bottom=4
 frame.left=4
