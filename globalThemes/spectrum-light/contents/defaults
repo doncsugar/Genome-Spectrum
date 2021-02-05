@@ -2,13 +2,13 @@
 cursorTheme=breeze_cursors
 
 [kdeglobals][General]
-ColorScheme=GenomeLight
+ColorScheme=GenomeLightAlt
 
 [kdeglobals][KDE]
 widgetStyle=Breeze
 
 [kdeglobals][Icons]
-Theme=SpectrumFoldersLight
+Theme=spectrum-folders-light
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
@@ -18,7 +18,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__SpectrumLightBlur
+theme=__aurorae__svg__GenomeLightBlurOutline
 
 [plasmarc][Theme]
 name=spectrum-minimal-classic-basic
