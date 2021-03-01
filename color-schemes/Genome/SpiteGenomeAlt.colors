@@ -20,7 +20,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=224,223,222
-BackgroundNormal=239,240,241
+BackgroundNormal=233,234,235
 DecorationFocus=165,201,241
 DecorationHover=165,201,241
 ForegroundActive=255,128,224
@@ -46,9 +46,37 @@ ForegroundNormal=239,240,241
 ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
+[Colors:Header]
+BackgroundAlternate=218,217,216
+BackgroundNormal=243,244,245
+DecorationFocus=165,201,241
+DecorationHover=165,201,241
+ForegroundActive=255,128,224
+ForegroundInactive=136,135,134
+ForegroundLink=0,87,174
+ForegroundNegative=191,3,3
+ForegroundNeutral=246,115,0
+ForegroundNormal=35,38,39
+ForegroundPositive=39,174,96
+ForegroundVisited=69,40,134
+
+[Colors:Header][Inactive]
+BackgroundAlternate=218,217,216
+BackgroundNormal=241,242,243
+DecorationFocus=165,201,241
+DecorationHover=165,201,241
+ForegroundActive=255,128,224
+ForegroundInactive=136,135,134
+ForegroundLink=0,87,174
+ForegroundNegative=191,3,3
+ForegroundNeutral=246,115,0
+ForegroundNormal=35,38,39
+ForegroundPositive=39,174,96
+ForegroundVisited=69,40,134
+
 [Colors:Selection]
 BackgroundAlternate=62,138,204
-BackgroundNormal=165,201,241
+BackgroundNormal=158,201,250
 DecorationFocus=165,201,241
 DecorationHover=165,201,241
 ForegroundActive=255,128,224
@@ -56,7 +84,7 @@ ForegroundInactive=118,178,241
 ForegroundLink=0,49,110
 ForegroundNegative=156,14,14
 ForegroundNeutral=225,97,0
-ForegroundNormal=25,124,241
+ForegroundNormal=13,112,231
 ForegroundPositive=128,255,128
 ForegroundVisited=69,40,134
 
@@ -76,7 +104,7 @@ ForegroundVisited=69,40,134
 
 [Colors:View]
 BackgroundAlternate=248,247,246
-BackgroundNormal=252,252,252
+BackgroundNormal=233,234,235
 DecorationFocus=165,201,241
 DecorationHover=165,201,241
 ForegroundActive=255,128,224
@@ -104,7 +132,7 @@ ForegroundVisited=69,40,134
 
 [General]
 ColorScheme=Breeze Light
-Name=Spite Genome
+Name=Spite Genome Alt
 shadeSortColumn=true
 
 [KDE]
