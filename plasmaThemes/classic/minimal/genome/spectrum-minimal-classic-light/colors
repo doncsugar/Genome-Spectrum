@@ -50,12 +50,6 @@ BackgroundNormal=252,252,252
 ForegroundInactive=127,140,141
 ForegroundNormal=35,38,39
 
-[Colors:Window]
-BackgroundAlternate=189,195,199
-BackgroundNormal=239,240,241
-ForegroundInactive=127,140,141
-ForegroundNormal=35,38,39
-
 [Colors:Complementary]
 BackgroundAlternate=59,64,69
 BackgroundNormal=49,54,59
