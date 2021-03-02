@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=A very bad theme.
+Name=Spectrum Spite Alt
+X-KDE-PluginInfo-Author=doncsugar
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=spectrum-spite-alt
+X-KDE-PluginInfo-Version=1.1
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1452220,kns://plasma-themes.knsrc/api.kde-look.org/1473217,kns://aurorae.knsrc/api.kde-look.org/1473005
