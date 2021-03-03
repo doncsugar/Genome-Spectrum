@@ -12,4 +12,4 @@ X-KDE-PluginInfo-Website=
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 
 
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1452221,kns://colorschemes.knsrc/api.kde-look.org/1449506,kns://colorschemes.knsrc/api.kde-look.org/1449509,kns://plasma-themes.knsrc/api.kde-look.org/1472999,kns://icons.knsrc/api.kde-look.org/1449532,kns://aurorae.knsrc/api.kde-look.org/1473005
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1452221,kns://colorschemes.knsrc/api.kde-look.org/1449506,kns://colorschemes.knsrc/api.kde-look.org/1449509,kns://plasma-themes.knsrc/api.kde-look.org/1472999,kns://plasma-themes.knsrc/api.kde-look.org/1486951,kns://icons.knsrc/api.kde-look.org/1449532,kns://aurorae.knsrc/api.kde-look.org/1473005,kns://lookandfeel.knsrc/api.kde-look.org/1487200

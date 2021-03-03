@@ -7,9 +7,9 @@ X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPL 3+
 X-KDE-PluginInfo-Name=spectrum-spite
-X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Version=1.1
 X-KDE-PluginInfo-Website=
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 
 
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1452220,kns://plasma-themes.knsrc/api.kde-look.org/1473217,kns://icons.knsrc/api.kde-look.org/1449538,kns://aurorae.knsrc/api.kde-look.org/1473005
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1452220,kns://plasma-themes.knsrc/api.kde-look.org/1473217,kns://plasma-themes.knsrc/api.kde-look.org/1486945,kns://icons.knsrc/api.kde-look.org/1449538,kns://aurorae.knsrc/api.kde-look.org/1473005,kns://lookandfeel.knsrc/api.kde-look.org/1487199
