@@ -1,0 +1,25 @@
+[ContrastEffect]
+contrast=1.0
+enabled=true
+intensity=1.0
+saturation=1.4
+
+[Desktop Entry]
+Comment=Opaque version of Spectrum Minimal Classic Colors, for use with blur disabled.
+Name=Spectrum Classic Colors Opaque
+X-KDE-PluginInfo-Author=doncsugar
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=spectrum-classic-colors-opaque
+X-KDE-PluginInfo-Version=1.0.1
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=Next
+defaultWidth=1920
