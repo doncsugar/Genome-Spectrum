@@ -5,15 +5,15 @@ intensity=1.0
 saturation=1.4
 
 [Desktop Entry]
-Comment=Spectrum Minimal Classic Charoite
-Name=Spectrum Min. Classic Charoite
+Comment=Spectrum Minimal Classic Garnet
+Name=Spectrum Classic Garnet
 X-KDE-PluginInfo-Author=doncsugar
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPLv3
-X-KDE-PluginInfo-Name=spectrum-minimal-classic-charoite
+X-KDE-PluginInfo-Name=spectrum-classic-garnet
 X-KDE-PluginInfo-Version=1.0.1
 X-KDE-PluginInfo-Website=
 X-Plasma-API=5.0
