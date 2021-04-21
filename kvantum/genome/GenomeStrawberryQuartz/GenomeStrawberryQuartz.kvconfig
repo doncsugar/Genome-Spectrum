@@ -1,6 +1,6 @@
 [%General]
 author=doncsugar
-comment=a spin on Breeze
+comment=a dark pink theme
 spin_button_width=18
 left_tabs=true
 attach_active_tab=true
@@ -27,7 +27,7 @@ menu_shadow_depth=11
 tooltip_shadow_depth=11
 translucent_windows=true
 reduce_window_opacity=25
-reduce_menu_opacity=20
+reduce_menu_opacity=40
 opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,avidemux3_qt5,kamoso,QtCreator,VirtualBox,VirtualBoxVM,trojita,dragon,digikam,lyx,systemsettings,konsole
 blurring=true
 shadowless_popup=false
@@ -86,7 +86,7 @@ vertical_spin_indicators=false
 x11drag=all
 
 [GeneralColors]
-
+base.color=#5f0e30
 
 
 [Hacks]
@@ -140,10 +140,10 @@ frame.top=3
 frame.bottom=3
 frame.left=3
 frame.right=3
-text.margin.top=5
-text.margin.bottom=5
-text.margin.left=4
-text.margin.right=4
+text.margin.top=3
+text.margin.bottom=3
+text.margin.left=3
+text.margin.right=3
 
 [Dock]
 inherits=PanelButtonTool
@@ -359,7 +359,7 @@ interior.element=menubar
 frame.left=2
 frame.right=2
 frame.top=2
-frame.bottom=4
+frame.bottom=3
 text.margin.top=0
 text.margin.bottom=0
 text.margin.left=2
