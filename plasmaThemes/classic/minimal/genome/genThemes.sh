@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #loop through themes
-for theme in spectrum-classic-basic spectrum-classic-basic-opaque spectrum-classic-light spectrum-classic-dark spectrum-malice spectrum-malice-opaque spectrum-spite spectrum-spite-opaque; do
+for theme in spectrum-classic-basic spectrum-classic-basic-hidpi spectrum-classic-basic-opaque spectrum-classic-light spectrum-classic-light-hidpi spectrum-classic-dark spectrum-classic-dark-hidpi spectrum-malice spectrum-malice-opaque spectrum-spite spectrum-spite-opaque; do
     echo "creating $theme"
     mkdir -p output/$theme
     cp -a $theme/* output/$theme/
