@@ -2,13 +2,13 @@
 cursorTheme=breeze_cursors
 
 [kdeglobals][General]
-ColorScheme=Garnet
+ColorScheme=GarnetHeader
 
 [kdeglobals][KDE]
-widgetStyle=Breeze
+widgetStyle=kvantum
 
 [kdeglobals][Icons]
-Theme=SpectrumFoldersDark
+Theme=spectrum-dark
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
@@ -21,4 +21,4 @@ library=org.kde.breeze
 theme=kwin4_decoration_qml_plastik
 
 [plasmarc][Theme]
-name=spectrum-minimal-classic-colors
+name=spectrum-classic-garnet

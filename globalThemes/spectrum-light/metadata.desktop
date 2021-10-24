@@ -7,9 +7,9 @@ X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPL 3+
 X-KDE-PluginInfo-Name=spectrum-light
-X-KDE-PluginInfo-Version=0.7
+X-KDE-PluginInfo-Version=0.8
 X-KDE-PluginInfo-Website=
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 
 
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1452220,kns://plasma-themes.knsrc/api.kde-look.org/1449495,kns://plasma-themes.knsrc/api.kde-look.org/1452261,kns://icons.knsrc/api.kde-look.org/1449538,kns://aurorae.knsrc/api.kde-look.org/1461548
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1452220,kns://plasma-themes.knsrc/api.kde-look.org/1449495,kns://plasma-themes.knsrc/api.kde-look.org/1490439,kns://plasma-themes.knsrc/api.kde-look.org/1452261,kns://icons.knsrc/api.kde-look.org/1449538,kns://aurorae.knsrc/api.kde-look.org/1461548,kns://aurorae.knsrc/api.kde-look.org/1491395,kns://lookandfeel.knsrc/api.kde-look.org/1491401

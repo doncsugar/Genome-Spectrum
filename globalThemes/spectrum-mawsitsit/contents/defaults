@@ -5,10 +5,10 @@ cursorTheme=breeze_cursors
 ColorScheme=MawSitSit
 
 [kdeglobals][KDE]
-widgetStyle=Breeze
+widgetStyle=kvantum
 
 [kdeglobals][Icons]
-Theme=SpectrumFoldersDark
+Theme=spectrum-dark
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
@@ -17,8 +17,8 @@ LayoutName=org.kde.breeze.desktop
 LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.breeze
-theme=kwin4_decoration_qml_plastik
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__SpectrumMawSitSit
 
 [plasmarc][Theme]
-name=spectrum-minimal-classic-colors
+name=spectrum-classic-colors

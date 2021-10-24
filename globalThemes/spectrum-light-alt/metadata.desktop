@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=Styled like Plasma 21
+Name=Spectrum Light Alt
+X-KDE-PluginInfo-Author=doncsugar
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=spectrum-light-alt
+X-KDE-PluginInfo-Version=0.8
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1452220,kns://plasma-themes.knsrc/api.kde-look.org/1449495,kns://plasma-themes.knsrc/api.kde-look.org/1490439,kns://plasma-themes.knsrc/api.kde-look.org/1452261,kns://aurorae.knsrc/api.kde-look.org/1491395
